@@ -35,7 +35,7 @@ Production environment secured with Let's Encrypt SSL/TLS and modern UI.
 
 ### 📁 Technical Breakdown
 *   **/configs**: Nginx server blocks and optimized PHP-FPM settings.
-*   **/docs**: [Step-by-Step Troubleshooting Guide](docs/troubleshooting-guide.md) (Port conflicts & Socket management).
+*   **/docs**: [Step-by-Step Troubleshooting Guide](docs/setup-guide.md) (Port conflicts & Socket management).
 
 ### 🛠️ Tech Stack
 - **OS:** Ubuntu 26.04.1 LTS
